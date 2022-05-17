@@ -12,4 +12,4 @@
 
 ### References: [jcbombardelli/gama-no-javascript-basico](https://github.com/jcbombardelli/gama-no-javascript-basico)
 
-![alt tag](https://hermes.digitalinnovation.one/assets/diome/logo.png)
+![alt tag](https://raw.githubusercontent.com/rtof83/validCPF/main/img/hc2022.png)
